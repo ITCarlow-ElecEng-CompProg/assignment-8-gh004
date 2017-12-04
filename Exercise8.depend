@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512063548 source:d:\g drive prog\exercise8\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+
